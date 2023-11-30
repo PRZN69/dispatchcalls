@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "check_url": "https://github.com/PRZN69/dispatchcalls/blob/main/dispatchnotify/version_dispatchnotify.json",
+    "check_url": "https://github.com/PRZN69/dispatchcalls/blob/main/dispatchcalls/version_dispatchcalls.json",
     "download_url": "https://github.com/PRZN69/dispatchcalls/",
     "configVersion": "1.0.0",
     "minCoreVersion": "2.5.0",

@@ -10,10 +10,6 @@ CreateThread(function() Config.LoadPlugin("dispatchcalls", function(pluginConfig
 
 if pluginConfig.enabled then
 
-    if pluginConfig.trafficCommand == nil then
-        pluginConfig.trafficCommand = "ts"
-    end
-
     registerApiType("NEW_DISPATCH", "emergency")
 
     -- Client TraficStop request
